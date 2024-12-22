@@ -10,7 +10,7 @@ nacos/nacos-server:v2.4.3
 easzlab/kubeasz:3.6.5
 easzlab/kubeasz-k8s-bin:v1.31.2
 easzlab/kubeasz-ext-bin:1.11.1
-easzlab/kubeasz-sys-pkg:1.0.2
+#easzlab/kubeasz-sys-pkg:1.0.2
 kubesphere/ks-installer:v3.4.1
 #ghcr.io/sozercan/llama3.1:8b
 #ghcr.io/open-webui/open-webui:ollama
