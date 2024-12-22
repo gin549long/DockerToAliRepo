@@ -1,17 +1,21 @@
 redis:7.4.1
 nginx:1.27.2
 mysql:8.4.3
+elasticsearch:8.12.2
+kibana:8.12.2
+--platform=arm64 elasticsearch:8.12.2
+--platform=arm64 kibana:8.12.2
 alpine
 nacos/nacos-server:v2.4.3
 easzlab/kubeasz:3.6.5
 easzlab/kubeasz-k8s-bin:v1.31.2
 easzlab/kubeasz-ext-bin:1.11.1
-#nacos/nacos-server:v2.1.0
-#redis
+easzlab/kubeasz-sys-pkg:1.0.2
+kubesphere/ks-installer:v3.4.1
 #ghcr.io/sozercan/llama3.1:8b
 #ghcr.io/open-webui/open-webui:ollama
 #ghcr.io/open-webui/open-webui:cuda
 #cr2.fit2cloud.com/1panel/maxkb
-#kubesphere/ks-installer:v3.4.1
+
 
 
