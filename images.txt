@@ -12,6 +12,8 @@
 --platform=arm64 arangodb:3.8.4
 #--platform=arm64 wurstmeister/kafka:2.8.1
 --platform=arm64 wurstmeister/zookeeper:3.4.13
+--platform=arm64 wurstmeister/zookeeper:3.8.1
+--platform=arm64 wurstmeister/kafka:3.6.2
 #--platform=arm64 nacos/nacos-server:v2.1.1
 
 #nacos/nacos-server:v2.4.3
