@@ -9,7 +9,7 @@
 #--platform=arm64 elasticsearch:8.12.2
 #--platform=arm64 kibana:8.12.2
 
---platform=arm64 arangodb:3.8.4
+#--platform=arm64 arangodb:3.8.4
 #--platform=arm64 wurstmeister/kafka:2.8.1
 --platform=arm64 wurstmeister/zookeeper:3.4.13
 --platform=arm64 wurstmeister/zookeeper:3.8.1
